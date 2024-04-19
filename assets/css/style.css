@@ -1,0 +1,18 @@
+.main-bg {
+  background-color: #1565c0;
+}
+.hero {
+  /* padding: 2rem 1rem;  karena ditambah waves jadi gakepake 1remnya*/
+  padding-top: 6rem;
+  background-color: #e3f2fd;
+}
+img {
+  width: 200px;
+}
+#projects {
+  background-color: #e3f2fd;
+}
+/* kenapa ditambah karena makai link smoot scroll headingnya tenggelam, jadi ditambah sedikit */
+section {
+  padding-top: 5rem;
+}
