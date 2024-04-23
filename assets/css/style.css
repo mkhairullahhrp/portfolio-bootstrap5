@@ -16,3 +16,12 @@ img {
 section {
   padding-top: 5rem;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+/* > * (apapun yang ada di dalam persis setelah row maka) */
+#gallery .row > * {
+  padding: 0;
+}
